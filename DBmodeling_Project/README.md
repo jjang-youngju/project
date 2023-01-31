@@ -1,5 +1,5 @@
 # DB Modeling Project
-
+<img src="image/main.png">
 <br>
 
 - 주제 : OTT 플랫폼 고객관리 프로젝트
