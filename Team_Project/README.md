@@ -1,5 +1,5 @@
 # CampMe
-<img src="Image/CampMe-main.png">
+<img src="Image/main.png">
 
 - 주제 : 캠핑장 정보공유 및 소통 커뮤니티 
 - 개요 : 캠핑장에 관련된 정보를 공유하고 자유롭게 소통을 할 수있는 홈페이지를 만든 프로젝트 입니다.
